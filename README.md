@@ -1,3 +1,3 @@
 # trunkBased
 
-### Task should be split into smaller parts that can be done quickly
+#### Task should be split into smaller parts that can be done quickly
