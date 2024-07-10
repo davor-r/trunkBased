@@ -1,4 +1,8 @@
 # trunkBased
 
-### Feature branches should be short-lived and usually should be merged to the trunk in a day
+### Feature branches should be short-lived and usually
 #### Task should be split into smaller parts that can be done quickly
+
+##### another commit
+
+### third commit
